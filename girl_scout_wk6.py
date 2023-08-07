@@ -1,8 +1,3 @@
-#Program:      L6 Girl Scout
-#Programmer:   Makahi Hurst
-#Date:         8/6/2023
-#Purpose:      The purpose of this program is to demonstrate defense in depth using basic data validation techniques
-
 
 cont = ''
 order_total = 0
